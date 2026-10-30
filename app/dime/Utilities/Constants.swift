@@ -6,5 +6,8 @@
 import Foundation
 
 enum Constants {
-    static let geminiAPIKey = "AIzaSyCMSraiAXcbZQZGiEVHHmhGPQx1CntCt4E"
+    // API key is loaded from Secrets.swift (not tracked by git)
+    // Create app/dime/Utilities/Secrets.swift with:
+    //   enum Secrets { static let geminiAPIKey = "YOUR_KEY_HERE" }
+    static let geminiAPIKey = Secrets.geminiAPIKey
 }

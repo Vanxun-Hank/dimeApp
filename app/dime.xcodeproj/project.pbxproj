@@ -155,6 +155,7 @@
 		AEADEF752AE94DC3006EB614 /* Toolbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEADEF732AE94DC3006EB614 /* Toolbar.swift */; };
 		AECE7F9E2AED1A6800B57267 /* SuggestedTransactions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AECE7F9D2AED1A6800B57267 /* SuggestedTransactions.swift */; };
 		C1A2B3D4E5F6A7B8C9D0E1F5 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1A2B3D4E5F6A7B8C9D0E1F2 /* Constants.swift */; };
+		D1A2B3D4E5F6A7B8C9D0E1A1 /* Secrets.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1A2B3D4E5F6A7B8C9D0E1A0 /* Secrets.swift */; };
 		C1A2B3D4E5F6A7B8C9D0E1F6 /* GeminiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1A2B3D4E5F6A7B8C9D0E1F3 /* GeminiService.swift */; };
 		C1A2B3D4E5F6A7B8C9D0E1F7 /* ImagePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1A2B3D4E5F6A7B8C9D0E1F4 /* ImagePickerView.swift */; };
 		D1E2F3A4B5C6D7E8F9A0B1C2 /* DonutSegment.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1E2F3A4B5C6D7E8F9A0B1C3 /* DonutSegment.swift */; };
@@ -338,6 +339,7 @@
 		AEADEF732AE94DC3006EB614 /* Toolbar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Toolbar.swift; sourceTree = "<group>"; };
 		AECE7F9D2AED1A6800B57267 /* SuggestedTransactions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuggestedTransactions.swift; sourceTree = "<group>"; };
 		C1A2B3D4E5F6A7B8C9D0E1F2 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		D1A2B3D4E5F6A7B8C9D0E1A0 /* Secrets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Secrets.swift; sourceTree = "<group>"; };
 		C1A2B3D4E5F6A7B8C9D0E1F3 /* GeminiService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeminiService.swift; sourceTree = "<group>"; };
 		C1A2B3D4E5F6A7B8C9D0E1F4 /* ImagePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerView.swift; sourceTree = "<group>"; };
 		D1E2F3A4B5C6D7E8F9A0B1C3 /* DonutSegment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DonutSegment.swift; sourceTree = "<group>"; };
@@ -502,6 +504,7 @@
 				536A2A162A5A7C5D00D81E02 /* OffsetHelper.swift */,
 				533D1C3B2AE7BB6900894764 /* DynamicType.swift */,
 				C1A2B3D4E5F6A7B8C9D0E1F2 /* Constants.swift */,
+				D1A2B3D4E5F6A7B8C9D0E1A0 /* Secrets.swift */,
 				C1A2B3D4E5F6A7B8C9D0E1F3 /* GeminiService.swift */,
 				C1A2B3D4E5F6A7B8C9D0E1F4 /* ImagePickerView.swift */,
 				A1B2C3D4E5F6A7B8C9D0E1F7 /* SpeechRecognizer.swift */,
@@ -1010,6 +1013,7 @@
 				5327D2DD287C6B5F00F76ADF /* InsightsView.swift in Sources */,
 				53A839BD28D35738006F227C /* SKProduct-LocalizedPrice.swift in Sources */,
 				C1A2B3D4E5F6A7B8C9D0E1F5 /* Constants.swift in Sources */,
+				D1A2B3D4E5F6A7B8C9D0E1A1 /* Secrets.swift in Sources */,
 				C1A2B3D4E5F6A7B8C9D0E1F6 /* GeminiService.swift in Sources */,
 				C1A2B3D4E5F6A7B8C9D0E1F7 /* ImagePickerView.swift in Sources */,
 				E1F2A3B4C5D6E7F8A9B0C1D2 /* QuickLogIntent.swift in Sources */,
